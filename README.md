@@ -2,4 +2,4 @@
 
 ### Sistem informasi kos-kosan
 
-![Screenshot 2023-12-02 113448](https://github.com/faizdzakiramadhani/RPL/assets/115913915/9ab38221-8d6d-4bde-b355-5b49a556e500)
+![Screenshot 2023-12-06 180804](https://github.com/faizdzakiramadhani/RPL/assets/115913915/744fd597-47a9-4808-9ec9-7cea4afadbc2)
